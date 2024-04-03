@@ -1,0 +1,42 @@
+.form {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: auto; 
+    padding: 20px; 
+    box-sizing: border-box; 
+    background-color: #f5f5f5; 
+    font-family: sans-serif;
+}
+
+.flex_container_info {
+    background-color: white;
+    width: 560px; 
+    height: 707pxpx;
+    padding: 40px 90px; 
+    box-sizing: border-box;
+    text-align: center;
+}
+.text_form_name {
+    color: #1E1E1E; 
+    font-family: 'Inter' sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.2px;    
+}
+.text_form_info {
+    color: #1E1E1E; 
+    font-size: 15px;
+    text-align: justify;
+}
+.text_form_info a{
+   text-decoration: underline;
+   color: #1E1E1E;
+}
+.peachInfo {
+    width: 253px;
+    height: 265px;
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+}

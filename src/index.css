@@ -1,0 +1,24 @@
+:root {
+  margin: 0;
+  padding: 0;
+  background: #40B9DE;
+}
+button{
+  border: none;
+  margin: 0 10px;
+  background-color: rgba(255,255,255,0);
+}
+#flex_container{
+  display: flex;
+}
+.flex_container{
+  display: flex;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px var(--Text-Dark-color, #121926) inset !important;
+  -webkit-text-fill-color: #A1A1AA !important;
+}
